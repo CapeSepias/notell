@@ -14,7 +14,7 @@
     "ejs": "0.8.5",
     "express": "3.4.4",
     "forever": "0.10.9",
-    "formidable": "1.0.14",
+    "formidable": "3.2.4",
     "fs-extra": "0.8.1",
     "nokit": "*",
     "socket.io": "0.9.16",
